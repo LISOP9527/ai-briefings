@@ -5,6 +5,8 @@
 
 ## 值得注册（规则透明/验货成本低）
 
+- **Vercel AI Gateway — Pixel Canary 免费** — 隐身模型 `stealth/pixel-canary`，262K ctx/131K out，Next.js Agent Evals 90% pass@4（对标 GPT-6 Astra），Coding 强项。stealth 期间完全免费（限时）；可直接 `codex --model stealth/pixel-canary` 或在 Cline/Vercel agent picker 里选；Vercel CLI 一键配 key。⚠️ 数据会留作训练（无 ZDR），别喂私密代码。用户 9/29 ChatGPT 已查到此项，补录。`10-01`
+- **Vercel AI Gateway — 免费档 $5/30 天** — 未付费用户每 30 天 $5 credits，官方口径，覆盖 Opus 5.5/Fable 5.1/Astra/Grok 4.7 等一线模型按量计费。`10-01`
 - **Requesty** — 免费档 200 req/天，无卡无到期，OpenAI 兼容（明示支持 Claude Code/Cline/Cursor），带路由策略+prompt 缓存。轻量日常备胎。`10-01`
 - **AI Router（ai-router.dev）** — $5 注册额度 + 每日签到 $1+前日用量 2%（上限 $10/天）。中高⚠️：自荐投稿、零社区口碑；只验货（测延迟/降智），不充值。`10-01`
 
