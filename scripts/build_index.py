@@ -38,16 +38,19 @@ def scan(dir_name: str):
     if not d.is_dir():
         return []
     out = []
-    for f in sorted(d.glob("*.md"), reverse=True):
+    dated = sorted((f for f in d.glob("*.md") if f.stem != "current"), key=lambda f: f.name, reverse=True)
+    cur = d / "current.md"
+    files = ([cur] if cur.exists() else []) + dated
+    for f in files:
         text = f.read_text(encoding="utf-8", errors="replace")
         m = re.match(r"(\d{4}-\d{2}-\d{2})(?:-(\d{4}))?", f.stem)
-        date, hm = (m.group(1), m.group(2)) if m else (f.stem, None)
+        date, hm = (m.group(1), m.group(2)) if m else (None, None)
         blurb = first_paragraph(text)
         if len(blurb) > MAX_BLURB:
             blurb = blurb[:MAX_BLURB].rstrip() + "…"
         out.append({
             "file": f"{dir_name}/{f.name}",
-            "date": date,
+            "date": date or "",
             "time": f"{hm[:2]}:{hm[2:]}" if hm else "",
             "title": title_of(text),
             "blurb": blurb,

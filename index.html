@@ -100,8 +100,8 @@ async function loadIndex() {
     if (idx && idx[g.dir]) {
       items = idx[g.dir].map(e => ({
         id: e.file,
-        main: e.date.slice(5) + (e.time ? ' ' + e.time : ''),
-        sub: e.blurb || e.title || '',
+        main: e.date ? e.date.slice(5) + (e.time ? ' ' + e.time : '') : (e.title || e.file),
+        sub: e.date ? (e.blurb || e.title || '') : (e.blurb || ''),
       }));
     } else {
       // fallback: directory listing, dates only
