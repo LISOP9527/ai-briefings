@@ -19,7 +19,7 @@
 
 ## 限时窗口（按到期日）
 
-- `10/2 15:00 UTC` · **Sonnet 5.5 Arena Direct Mode 限时免费测**——已证实窗口，想白嫖实测趁现在（PT 10/2 早 8 点截止）
+- `10/2 15:00 UTC` · **Sonnet 5.5 Arena Direct Mode 免费测**——窗口内聊天基本不限量（软限频、非 API）；窗口后 Sonnet 5.5 永久留在 Arena Battle/Agent 模式，仍可免费聊
 - `10/4–10/5` · **Codex 重置卡**两张分别生效可用（V2EX 口径，注意 5h 窗未重置的抖动报告）
 - `10/7` · **Claude 云额度 $100/$250** 领取截止（余额 11/4 过期；建议走美区 Apple 内购订阅留退款后路——封号潮持续）
 - `10/7` · **GLM Coding Plan 双节**：夜间 GLM-5.3-Flash 免额度（ZCode/AutoClaw 0 消耗）+ 全天按非高峰 5 折
