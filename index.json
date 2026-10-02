@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-01T14:00:39Z",
+  "generated": "2026-10-02T04:09:51Z",
   "briefings": [
+    {
+      "file": "briefings/2026-10-02-0405.md",
+      "date": "2026-10-02",
+      "time": "04:05",
+      "title": "AI/科研情报简报 · 2026-10-02（凌晨档）",
+      "blurb": "值得细看——本轮没有单一超大头条，但有一条清晰的主线：harness/上下文工程在同一天多点爆发（Claude Code mods 可编程化、Pi 1.0+Durable、DeepSeek Harness 桌面版、CLM/AutoCompa…"
+    },
     {
       "file": "briefings/2026-10-01-0400.md",
       "date": "2026-10-01",
