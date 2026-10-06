@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-05T04:05:29Z",
+  "generated": "2026-10-06T04:07:00Z",
   "briefings": [
+    {
+      "file": "briefings/2026-10-06-0400.md",
+      "date": "2026-10-06",
+      "time": "04:00",
+      "title": "AI 简报 · 2026-10-06 凌晨档",
+      "blurb": "本轮值得细看：一件西方开源权重旗舰（Reflection Beam）、一件 AI-for-math 流水线化实质进展（Ansatz，Tao 署名）、一份会改变订阅决策的实测成本账（SemiAnalysis）。"
+    },
     {
       "file": "briefings/2026-10-05-0400.md",
       "date": "2026-10-05",
