@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-06T04:07:00Z",
+  "generated": "2026-10-07T04:13:19Z",
   "briefings": [
+    {
+      "file": "briefings/2026-10-07-0400.md",
+      "date": "2026-10-07",
+      "time": "04:00",
+      "title": "AI/科研简报 · 2026-10-07 凌晨档",
+      "blurb": "一句话判断：值得细看。 本期有 9 月级事件：OpenAI 一次性放出 722 篇数学手稿（含 QRH、Hilbert 第十问题 ℚ 版、BSD 密度一结果这种世纪级宣称，162 个主定理带 Lean 工件）；Mistral Large 4…"
+    },
     {
       "file": "briefings/2026-10-06-0400.md",
       "date": "2026-10-06",
