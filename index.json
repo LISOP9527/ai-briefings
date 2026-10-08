@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-08T02:43:43Z",
+  "generated": "2026-10-08T04:09:57Z",
   "briefings": [
+    {
+      "file": "briefings/2026-10-08-0400.md",
+      "date": "2026-10-08",
+      "time": "04:00",
+      "title": "AI/科研简报 · 2026-10-08 凌晨档",
+      "blurb": "一句话判断：值得细看。 Haiku 5.5 终于落地且定价打到旧档十分之一，同日 Anthropic 把订阅和 API 之间的墙拆了（Max/Team 每月送 API 额度）；openai/math 事件进入复核周——UGC、L=BPL 级…"
+    },
     {
       "file": "briefings/2026-10-07-0400.md",
       "date": "2026-10-07",
