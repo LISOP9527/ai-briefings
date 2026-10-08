@@ -93,6 +93,26 @@
 - **情报速记** — Mythos 5.1 坐实（Anthropic CVP 扩档面向安全从业者）；GPT-5.6 系经 US AISI 评估正式部署；GLM-5.3 上 AWS Bedrock；Kimi K3 开源权重（2.8T 全球首个开源 3T 级/1M ctx）；Codex-Spark 实时 15x Pro $200 档；openai/math 开源仓 722 篇前沿数学论文 Apache-2.0；「Google AI Ultra 免费一年」钓鱼邮件活跃（只认 one.google.com）。`10-07`
 - **常查资源** — tokenplus.app/codingtoken.org 比价、didcodexreset.com Codex 重置监测、veridrop.org Claude 验真红黑榜、freeai.directory 免费档追踪、ai-coding-welfare 聚合仓 13 站、gongyizhan.com 公益站存活探测、freellm.net、LMU-AI/claude-api-relay-review 中转横评、FreeRideV3 本地聚合免费档、免费美国手机号可解 NIM SMS 门槛。`10-07`
 
+## 过期可淘（二手转卖·高质余额）
+
+> 活动期已结束，但额度本身仍可二手淘到且余额未过期；质与量高于现役条目才进此栏。注意时效——余额过期日即此栏失效日。
+
+- **Claude 云额度 $100/$250 成品号** — 领取 10/7 止但**余额 11/4 才过期**；已领号二手市场折价出，性价比仍碾压多数现役条目。高危：封号潮+GitHub 授权关联，买来即消耗品、别绑自己账号体系。渠道：x2.miaooo.cc 闲置额度市场、TG 卡商。`10-07`
+- **OpenAI Pro 62500 补偿 credits 号** — Pro200→Plus 退订后 credits 跟账号保留、降档续用；成品号可淘，年底过期。`10-04`
+- **Codex 手动重置卡（banked reset）** — Tibo D3 发的可囤重置，二手有售；时效跟随重置节奏（约 3 天一次全局重置）。`10-07`
+- **Meta Muse 邀码** — 双方各 10 亿 tok 永久，48h 内兑；二手单码可淘（使用端限美区）。`10-05`
+- **闲置额度出租/交易市场** — x2.miaooo.cc：Plus 5h 额度按量出租/租用（违 ToS+盗刷风险，只当行情渠道用）。`10-04`
+
+## 申请制（项目/科研/身份）
+
+> 不走注册即送，需要项目/科研/身份审核；标注可及性。
+
+- **GitHub Copilot Pro 免费（OSS 维护者）** — 热门开源仓维护者免绑卡自动授予；自己仓够格可直接吃（codex-for-oss 同理可申请）。`10-05`
+- **Reflection Beam 501B waitlist** — API beta 申请制，Apache-2.0 月内开源权重；先排队。`10-07`
+- **OrcaRouter 学生 offer** — Offers 页两键领，部分学生 offer 不需 edu 邮箱、历史 GitHub 号即可。`10-05`
+- **OpenAI 定向 $50 礼品卡** — 非公开申请、邮件定向发放（美区/美元账户）；动作=翻注册邮箱含垃圾箱。`10-06`
+- **高校/edu 学生包（高中生不适用，仅记档）** — Gemini 学生一年（18+ 大学生 SheerID，不含中国大陆/港澳/加拿大）、Codex 学生 $100、ChatGPT Back to School 4 个月 Plus、SuperGrok 学生 2 个月、Cursor 学生一年 Pro、火山方舟高校 1 亿 tok、Kiro/AWS/Azure 学生包——均需高等教育身份验证。`10-04`
+
 ## 已失效 / 不适用
 
 - `10-07` **Claude 云额度 $100/$250 领取** / ZCode 补偿 / GLM 双节 / MiniMax 双倍签到 / DeepSeek 国庆低谷价 / ZeroCat 国庆分组 / DoCode 充值加赠 / Token Unlimited 0.35x — 均到期
