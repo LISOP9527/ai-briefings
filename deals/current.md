@@ -1,7 +1,7 @@
 # AI 羊毛情报 · 当前有效清单
 
 > 活文档：自动化每 3h 维护一次。新机会进对应分组，过期/失效的移入「已失效」（只留近 7 天）并注明日期。每行尾标确认日期。
-> 最后更新：2026-10-09 01:41 UTC
+> 最后更新：2026-10-09 04:41 UTC
 
 ## 最新变化（近 3 天新增/变动）
 
@@ -19,6 +19,14 @@
 - `10-09` **Muse 成品号上架行情** — 带 10 亿 token 成品号 ¥29.9；dots 注册路径细节补全 → 值得观察
 - `10-09` **Fable 5.5 再一灰度信号** — 外部画廊 552 条标注 Fable 5.5 制作视频，仍无官宣 → 值得观察
 - `10-09` **GLM-5.4/5.5 凤凰网预热** — 参数量万亿以上、走两条新路 → 值得观察
+- `10-09` **Gemini 学生一年免费对 CN 开口** — 选台湾区+国内学校+学信网材料可领一年 Google AI Plus（需高校学籍，高中生不可及）→ 申请制
+- `10-09` **X API 新号最高 $70 赠金** — 绑合格卡送 $20+首充等比加赠至 $50，3 个月过期；xAI 免费额度死后首个官方回血口 → 值得观察
+- `10-09` **hub.linux.do 通道再换血** — 新上 deepseek-v4-pro 免费 30RPM+「0x」开工福利，oai/ds 通道延期拉闸中 → 值得观察
+- `10-09` **Claude Code 三枚错账 bug** — 多 Team 5h 互烧+daemon 泄露 token 错扣+stale 标志强制走 credits → 渠道情报
+- `10-09` **席位市场新低价形态** — 「非盈利 Team 转移空间」¥70 首月/¥35 续 + ¥200/1000 刀不清零额度包 → 渠道情报
+- `10-09` **Claude 组织禁用=封号且官方不退** — 解法=支付渠道 chargeback；简中 UI 新号 1-2 天短期存活样本 → 渠道情报
+- `10-09` **WorkBuddy DSv4.1F 免费今日截止** → 已失效
+- `10-09` **百炼 10/10 下线范围补全** — 第三方模型全停：DSv3/R1+Kimi K2+MiniMax M2.1+GLM4.6/4.7+Qwen 老版，QPM 已在缩 → 限时窗口
 - `10-08` **Gemini 4 Argon Arena 首秀登顶** — Text Arena #1（1525，+20 压 Opus 4.6；WebDev #8）+ Terminal-Bench #5；晚单源 X 截图称美国 Ultra 用户已可用 → 值得观察
 - `10-08` **Gemini Spark 灰度"4.1-flash"** — 自称 gemini-4.1 系但 ID 解码仍是 3.8 代号（skimaki-remy），鹈鹕测试观感惊艳 → 渠道情报
 - `10-08` **ClinePass DS 上游降质** — 返回模型名 vmc/…-contributor-fallbacks，数据喂训练+仅剩单渠道 → 渠道情报
@@ -74,7 +82,7 @@
 - **Requesty 免费档** — 200 req/天免费模型，无卡无到期，OpenAI 兼容。`10-01`
 - **AI Router（ai-router.dev）** — $5 注册 + 日签 $1+2%；中高⚠️ 自荐零口碑，只验货不充值。`10-01`
 - **华为云码道** — 每日 1000 万 token（GLM5.3F/DSv4F/DSv4P，IDE 内用，日清先到先得）。`10-01`
-- **腾讯 WorkBuddy** — Hy3 全时限免 + Hy4 preview 夜间限免延至 10/31；新用户 10/10 前开启送 14 天每日额度；国际版 DSv4.1F 免费至 10/9。⚠️ 有偷换模型前科。`10-01`
+- **腾讯 WorkBuddy** — Hy3 全时限免 + Hy4 preview 夜间限免延至 10/31；新用户 10/10 前开启送 14 天每日额度；国际版 DSv4.1F 免费 10/9 已截止。⚠️ 有偷换模型前科。`10-09`
 - **阶跃星辰 Step Plan / Step 5 Preview** — 免费体验 15天+首调15天+邀×3=最多75天；Flash Mini 400M credits/月档，手机号无卡。**10/8 更新**：旗舰 Step 5 Preview（600B MoE/27B 激活，1M ctx，AA 44 分≈K3 同分，$1/$2.7）已上 OpenRouter 付费档，官方预告将在 OpenCode/Cline/Hermes/Kilo Code 开放免费试用（L站 t/2996341），权重 10/15 开源——想零成本试旗舰的先注册 StepFun 拿体验期，再等编程平台免费档上线。`10-08`
 - **阿里百炼新人** — 每模型 100 万 token 常驻，免实名，华北2；另有 Qoder Qwen3.8-Flash 0.0× 无限期 + 日领 100 credits。`10-01`
 - **智谱 bigmodel.cn 新人体验包**（漏报补录）— 注册送 2000 万 tokens 体验包，官方邀请页与 iGetoken 快讯（8 月起「进行中」）双源印证，全系模型可用（含 GLM-5.3）；约 8 月起的常驻注册福利。⚠️ 部分权益需实名认证（国内平台常规门槛）；有效期以控制台「资源包」页为准（付费资源包规格页标 3 个月，体验包口径需进后台确认）。官方平台非中转，量大管饱——值得注册。**邀请活动加码**（free-llm-intel 仓从官方 bundle i18n 原文核实，10/8）：成功邀请 1 名新用户实名注册，**邀请双方各得 2000 万 tokens 资源包，每月可邀 10 人、上限 2 亿**——入口 bigmodel.cn/special_area（未登录可读）+ bigmodel.cn/invite；和同学互拉一轮就是 4000 万+ 的量。另：官方「校园计划」页已下线，仅剩清言开学季送 399 元会员卡年卡（在校学生认证，消费端非 API）。`10-08`
@@ -93,7 +101,8 @@
 - **Fable 5.5** — 传闻定档窗口 10/6 已到仍无官宣（10/6 复核：seedrouter/aitoolsreview/aiidelist 口径一致——官方目录仍 Fable 5.1，无 model ID/系统卡/价格表，传闻链仅源自 X 帖，命名本身都曾在 5.2/5.5 间摇摆）→ **下调为低可信**，按灰度路由观察不再单列窗口；platform.claude.com 404 路由痕迹 + 静默路由个案仍在（10/1 起 15+ 泄露视频）。10/6 晚复核仍无官宣（凤凰科技 10/2 灰度实测口径称"就在下周"，Andrew Curran 等泄露方未给日期）。若官宣发布当天盯官方档/arena 免费试用。10/7 OrcaRouter 逐面复核仍无 model ID（`anthropic/claude-fable-5.5` 404）、无价卡、无独立评测页——传闻仍停在 X 帖层。**10/9 新灰度信号**：V2EX t/1246906 推 workskill.tools 画廊——552 条标注"由 Claude Opus 5.5 与 Fable 5.5 制作"的爆款视频（附原作者公开提示词），外部渠道已有人在真实调用 Fable 5.5 产内容（kingy.ai 10/7/APIMaster 10/8 复核仍无官宣）；若官宣当天盯官方档/arena 免费试用。`10-09`
 - **LongCat 2.5 Preview Free（OpenCode Zen）** — 美团 LongCat 2.5 预览版在 Zen 免费池：`longcat-2.5-preview-free`，1M ctx/131K 输出/推理可调/文+图，Zen 隐私表标 0 天留存不用于训练；官方写"limited time"无截止日期（聚合站估 ~10/10），Zen 与 Go 双渠道可调，Zen key 外部可用仅并发限（9/25 起，orcarouter+themodelgap+models.dev 三源）。上轮漏报补录。`10-05`
 - **code-relay / gorouter / aiaiai001 / moyuu** — 公益导航站（gongyizhan+bubblevv 仓）收录的中额站，本站未实测：code-relay 登录送 $50 有 Claude（连续在探 42 天）、gorouter GitHub 注册送 $70 有 Claude（7 月收录）、aiaiai001 GPT-Plus 0.1x+邀双方 $5、moyuu 注册 $6+0.06x。均为验货级：薅赠额可，别充值。`10-05`
-- **XPass 统一订阅（泄露名"X Subscription"/XPASS）** — （10/8 复核：官方仍未上线，四档价目与 10/9 首月半价促销口径无变化；CellCog 10/3 起持续追踪确认无官宣） — 四档全泄露（10/4 屏幕录像，runtimewire/CellCog 等媒体跟进）：Premium $8/$80（X Premium+Grok Lite，首月 $4 至 10/9）、Plus $30/$300（X Premium++SuperGrok+4x+Grok Bot+Cursor cloud agents+Bugbot/Origin+30s 720p 视频生成）、Super $100/$1000（15x+1080p+峰值优先）、Ultra $200/$2000（50x+最强模型+最早访问）；AI 用量全服务共享池；10/9 首月半价仅为目录日期非官宣；Cursor 档位映射与迁移规则未出。10/3 AGI Hunt 单源报"XPASS 已可在网页用 Stripe/PayPal 购买"，与 CellCog 同日"仍未官宣"口径冲突，按灰度放量看待；10/6 复核仍未正式上线（CellCog 10/3 核实 x.ai/X/Cursor 官网均无 Xpass 页面）。已有 SuperGrok/Cursor 的别续费。10/7 复核仍未正式上线（x.ai/X/Cursor 官网均无购买页）；10/8 目录日前夕仍未上线（@GrokInsider/Puck 复查四档与价目为真、用法倍率 4x/15x/50x 仍未证实）；**明天 10/9 即目录日**（首月 5 折码 `xpass-launch-50off-1mo`，Premium 首月 $4/Plus 首月 $15），当天盯官网与 X app 推送——若落地，$4 首月的 Premium（X Premium+Grok Lite+Cursor+Grok API 共享池）是学生档最低成本入口，先买首月别订年付等迁移细则。**10/8 22:40 UTC 复核仍未上线**（@Tuankxae/CellCog 口径一致，距目录日 ~80 分钟）；官方 onboarding 流程泄露再确认：AI 档写的是 "Cursor" 非 Cursor Pro/Ultra——Cursor 档位数未明，别按全量 Cursor 订阅折算价值。**10/9 目录日已过仍未上线**：10/9 01:45 UTC 复核 x.ai/pricing 仍只有 SuperGrok $30/SuperGrok Plus $100 旧档，无四档 XPass——目录日期证实≠上线日，半价码暂无处可用，继续盯 x.ai/X app/Cursor 官网。`10-09`
+- **X API（xAI Developer Console）新号赠金最高 $70** — X 侧新按量付费账号两笔一次性赠金（AGI Hunt 10/5，官方 Developer Console 口径）：保存合格信用/借记卡送 $20 + 首次自动充值等比加赠上限 $50；自动到账无码，约 1 分钟可见；赠金先于自费消耗、**3 个月过期**；预付卡不算入 $20 档。≈¥500 量级真赠金但需绑卡+充值才拿满——有虚拟卡（Bitget 新美卡见渠道情报）的值得注册，先拿 $20 纯绑卡档；纯零氪拿不齐。xAI $25/$150 免费额度全面下线后首个官方回血口。`10-09`
+- **XPass 统一订阅（泄露名"X Subscription"/XPASS）** — （10/8 复核：官方仍未上线，四档价目与 10/9 首月半价促销口径无变化；CellCog 10/3 起持续追踪确认无官宣） — 四档全泄露（10/4 屏幕录像，runtimewire/CellCog 等媒体跟进）：Premium $8/$80（X Premium+Grok Lite，首月 $4 至 10/9）、Plus $30/$300（X Premium++SuperGrok+4x+Grok Bot+Cursor cloud agents+Bugbot/Origin+30s 720p 视频生成）、Super $100/$1000（15x+1080p+峰值优先）、Ultra $200/$2000（50x+最强模型+最早访问）；AI 用量全服务共享池；10/9 首月半价仅为目录日期非官宣；Cursor 档位映射与迁移规则未出。10/3 AGI Hunt 单源报"XPASS 已可在网页用 Stripe/PayPal 购买"，与 CellCog 同日"仍未官宣"口径冲突，按灰度放量看待；10/6 复核仍未正式上线（CellCog 10/3 核实 x.ai/X/Cursor 官网均无 Xpass 页面）。已有 SuperGrok/Cursor 的别续费。10/7 复核仍未正式上线（x.ai/X/Cursor 官网均无购买页）；10/8 目录日前夕仍未上线（@GrokInsider/Puck 复查四档与价目为真、用法倍率 4x/15x/50x 仍未证实）；**明天 10/9 即目录日**（首月 5 折码 `xpass-launch-50off-1mo`，Premium 首月 $4/Plus 首月 $15），当天盯官网与 X app 推送——若落地，$4 首月的 Premium（X Premium+Grok Lite+Cursor+Grok API 共享池）是学生档最低成本入口，先买首月别订年付等迁移细则。**10/8 22:40 UTC 复核仍未上线**（@Tuankxae/CellCog 口径一致，距目录日 ~80 分钟）；官方 onboarding 流程泄露再确认：AI 档写的是 "Cursor" 非 Cursor Pro/Ultra——Cursor 档位数未明，别按全量 Cursor 订阅折算价值。**10/9 目录日已过仍未上线**：10/9 01:45 UTC 复核 x.ai/pricing 仍只有 SuperGrok $30/SuperGrok Plus $100 旧档，无四档 XPass——目录日期证实≠上线日，半价码暂无处可用。**10/9 04:40 UTC 再复核**：首月半价窗口已开（码 `xpass-launch-50off-1mo` 自 00:00 UTC 生效）但官网仍无购买入口，AGI Hunt 单源「XPASS 已可网页 Stripe/PayPal 购买」与多方「未上线」口径冲突——按灰度滚动放量看待，继续盯 x.ai/X app/Cursor。`10-09`
 - **Grok Bot 自动多模型路由（灰度推进中，计费已实锤）** — 马斯克 10/7 称 Grok Bot 将按任务自动选模型，可路由到 Opus 5.5（L站 t/2990372），路线含视频 seedance/图 midjourney/音乐 suno（t/2990375）；10/7 下午实测信号=监控发现缓存写入+风格像 Claude（t/2991395），另有 t/2990677「grok bot真路由opus5.5了」实证。**计费机制实锤（重要风险）：Grok Bot 调外部模型=以启动 Cursor cloud agent 的方式调用，烧的是「other model」额度**（L站 t/2991037）：已有受害者——Ultra 用户昨夜跑云端任务被派 subagent Claude 4.5 Sonnet+Gemini-3.8-Flash 烧掉 40% 月额度，找客服"功能就是这样"不退款、人机客服不转人工；Other Models 额度烧完后写代码回落 grok-4.7。⚠️ 结论：路由是真的但**会偷烧 Cursor 侧额度且无退款**——有 SuperGrok/XPass 的别拿主号跑大任务，先小测确认扣费口径。`10-07`
 - **Kimi K3 开源权重** — 2.8T 首个开源 3T 级，1M ctx 原生多模态（HF moonshotai/Kimi-K3）；官方 API 需 ≥$1 充值解锁（低门槛但非零）。K3.1 泄露主攻 computer use/Agent 模式+Swarm 多智能体协作（API 注册表现 `kimi-k3-1`/`k3d1-agent` 标识已可探活，1M ctx+Low/High/Max 三档推理，占位价同 K3，10 月底前放量，AIReport/TechNode 多源）。套餐重构后 Code 起档提高、周隔离→月共享 26M tok（有效成本 +92%）。档位细节（官方 docs 10/4）：网页/App 聊天 K3 也按额度计费，免费对话只有 K2.6（第三方"免费档可用 K3"口径证伪）；Kimi Code 需 Moderato/Plus 及以上，1M ctx 需 Allegretto/Pro+，新 Go 档无 code 配额。`10-04`
 - **Gemini 4 Argon 放量临近** — 10/7 现身 Google Cloud Vertex AI 模型目录（NPowerUser 10/7 报道 + L站 t/2990863 截图双源），社区口径"进目录即当天~数日内 GA"；官方放量顺序=付费 API 客户→AI Ultra 订阅→大众（见渠道情报），发布价 $2/$10。**AA 实测口径修正（OrcaRouter 10/8 文）**：Intelligence Index v4.3.2 实测 **52.56**——贴着 GPT-6 Astra(52.67)/Fable5.1(53.35)/GPT-6.1-Sol(51.83)，但**低于 Opus5.5(57.62) 与 Sonnet5.5(56.00) 约 5 分**，DeepSWE 77.9% 属编码专项口径，别按"对标 Opus5.5"预期；截至 10/8 13:40 UTC Gemini API 模型列表仍无 argon/gemini-4 ID、无 GA 日期。放量当天盯中转站上架，AI Studio 免费档是否跟进待看。**10/8 弱信号**：L站 t/2993782 多人实测 Gemini 首字延迟 04:30 UTC 起崩溃近乎不可用，社区猜"谷歌今天就要有所行动"（抽算力备战放量）；同站 t/2994703 有用户已在 Gemini 侧提前见到 `gemini-4-flash` 模型回答变快。**10/8 再加一条**：L站 t/2993929「Gemini 4 或将于今日发布」（4466 阅读），来源=此前提前命中 Opus/Sonnet/Haiku 发布时间的同一泄露方+Polymarket 赔率异动——4 系放量链路多点信号互证，继续盯。**10/8 晚竞技场口径补录**：Argon(High) 在 Arena（原 LMArena）Text Arena 上线日即登顶 #1（1525 分，+20 压 #2 Opus 4.6；Coding/难指令/指令遵循/长查询/创意写作/中英俄全 #1，WebDev #8、标记 pre-release 4942 票），Vals Terminal-Bench 4.0 57.58%（#5/45）、Arena+ Elo 现列 #2/26——「登顶榜首」传言主体属实（竞技场口径，非 GA）。**放量新信号**：单源 X 截图（@alannnfx）称已对美国 Ultra 用户开放、今明天全球开放——恰踩官方顺序第二步（付费API→Ultra→大众），但 L站实测 `gemini-4-argon` Vertex model ID 仍 404、bili 搬运链可信度中等，按"Ultra 段灰度启动"看待，盯明天官方/API 目录。**10/9 复核**：仍未 GA——无 model ID、x.ai/Gemini API 模型列表无 argon；社区流传最广的口径=付费 API+Ultra 档 10/9–10/10 窗口（runtimewire 10/8，无官方确认）；Gemini 免费档大砍今日生效（见渠道情报），免费面进一步收窄。`10-09`
@@ -124,7 +133,7 @@
 - **Hermes Agent 官方免费 Step 5 Preview** — L站 t/2997332：Hermes 官方上线免费模型 `stepfun/step-5-preview:free`——昨日预告的"OpenCode/Cline/Hermes/Kilo Code 免费试用"第一块兑现；⚠️ **需绑 Stripe 卡**才能开白嫖档（帖内截图口径），无卡用户用不了——有卡的值得开，权重 10/15 开源前这是体验 600B 旗舰预览的零成本路子之一。`10-09`
 - **七牛云 AI 推理邀请活动** — 官方活动规则页（developer.qiniu.com aitokenapi/13082 + qiniu.com/ai/promotion/invite 双源）：邀新双方各得 **300 万 token 通用资源包**（邀请人可累计，手动领取截止 2026/12/30，资源包 2 年效期，奖励额度日释放上限 1000 万/TPD）；⚠️ 需个人实名认证（新用户有 24h 免认证体验期），模型偏旧一代（claude-4.5 sonnet/haiku、Kimi 2.5、GLM-4.7、MiniMax M2.1 等，第三方稿称新用户注册即得 1000 万与官方 300 万/邀口径有出入，以控制台资源包页为准）——国内正规云厂、非中转，实名可接受者+能互拉同学的值得注册，否则备胎。`10-08`
 - **KiosAPI（kiosapi.com）** — 带倍率 0 免费组的中转站（docs.kiosapi.com 官方实锤+baipiao.org 收录）：Free 组挂 ~34 款模型——**kimi-k3、glm-5.3、glm-5.3-flash-free、qwen3.8-max/27b/flash、deepseek-v4-flash、gpt-oss-20b、grok-4.6-fast、nemotron-3-super-120b、gemini-2.0-flash** 等；解锁=注册+邮箱验证+Turnstile+过 @kiosapi_verif_bot TG 验证并留在官方 TG 群（退群即失效，定期复查）；官方明示共享容量无 SLA、模型清单常变。付费组倍率异常低：DeepSeek-Promo **0.01x**、Codex-Plus 0.02x、Grok 0.03x、Codex-Pro 0.04x、Claude-Kiro 0.05x、China-Models/GLM/DeepSeek/Gemini 0.2x。⚠️ 需 TG 账号；免费组只保「100% 免费」不保稳——白嫖国模的一线新端点；付费面验货级。`10-08`
-- **hub.linux.do** — L站社区自建 OpenAI 代理（3 月上线补录）：L站账号登录即发 key，每日 100req/50万 tok 免费，兼容 Chat Completions/Responses/WebSocket；长期白嫖端点，限 L站成员。**10/8 免费通道换血**（t/2994506→t/2995335）：国模批（kimi-k3/glm-5.3/5.3F）已被蹬近 $400 后下架，站长改放 **gpt-6.1-sol + deepseek-v4.1-flash 免费通道**（上游名义显示 deepseek-v4-pro，渠道包装口径），「吃饭回来拉闸」延期中随时关——GPT-6.1-Sol 零成本临时白嫖窗，备胎级。另渠道池有 ss2a.top/fanqie 自挂 0.1x Astra 按量渠道可蹭免费日额。`10-08`
+- **hub.linux.do** — L站社区自建 OpenAI 代理（3 月上线补录）：L站账号登录即发 key，每日 100req/50万 tok 免费，兼容 Chat Completions/Responses/WebSocket；长期白嫖端点，限 L站成员。**10/8 免费通道换血**（t/2994506→t/2995335）：国模批（kimi-k3/glm-5.3/5.3F）已被蹬近 $400 后下架，站长改放 **gpt-6.1-sol + deepseek-v4.1-flash 免费通道**（上游名义显示 deepseek-v4-pro，渠道包装口径），「吃饭回来拉闸」延期中随时关——GPT-6.1-Sol 零成本临时白嫖窗，备胎级。**10/9 再换血**（t/2998617）：oai 与 ds 通道如期拉闸后延期再放，今日新上 `deepseek-v4-pro` 免费通道 30RPM +「0x」开工福利（0 倍率口、帖主强调禁止分发）——通道日变更快照，蹬前先看帖确认还在不在。另渠道池有 ss2a.top/fanqie 自挂 0.1x Astra 按量渠道可蹭免费日额。`10-09`
 - **TierFlow（tierflow.cn）** — 9/30 重新开放注册+国庆活动（新浪通稿）：注册+实名认证送 ¥5 现金额度+一个 ¥29.9 套餐；邀请 ¥20/人（日上限 5 人/¥100）；**充值 1:1 等额赠金**（本金赠金各半扣费，赠金有效至 2027/1/1）。⚠️ 需实名+通稿零口碑——验货级，注册赠额小（≈¥35），值点只在充值 5 折等效。`10-07`
 - **Docker Agentic Platform $250 沙箱额度** — 新户一次性 $250 Cloud Sandbox credits（标准 $25 的 10 倍，docker.com/c/sbx-promo，10/31 23:59 PT 截止，一户一次、**需绑信用卡**）；给 agent 跑长任务的云 microVM 算力（≈4 agent×7h/天×1 月），不是模型额度——配 NIM/OR 免费 key 可零成本跑无人值守任务。有卡的值得领，没卡的跳过。`10-07`
 - **Relay AI（relayai.asia）** — 新中转试运营（sechub 推广帖）：注册 $10 永久额 + 回帖留 ID $10（前 100 楼）+ 加群 $10（前 30 名）≈ $30，主打 ChatGPT/Codex 网关 OpenAI 兼容。⚠️ 零口碑小站、无运营历史，薅额验货级，别充值。`10-07`
@@ -144,12 +153,12 @@
 - ~~`10/8 06:59 UTC` · **Claude 云额度 $100/$250 领取截止**~~ → 已过截止，移「已失效」（二手成品号仍可在「过期可淘」栏淘，余额 11/4 过期）
 - ~~`10/9 00:00 UTC` · **XPass 目录日+首月半价启动**~~ → 目录日已过未落地（10/9 01:45 UTC 复核仍无购买页），条目留「值得观察」继续跟踪
 - ~~`10/9` · **Gemini 应用免费档大砍**生效~~ → 已如期落地，详版移「渠道情报」（免费只剩 Flash-Lite、AI Plus 失 Pro）
-- `10/9` · **WorkBuddy 国际版 DSv4.1F 免费**截止
+- ~~`10/9` · **WorkBuddy 国际版 DSv4.1F 免费**截止~~ → 已到期，移「已失效」
 - `10/10 01:00 北京` · **apmix 10B gpt-6-luna-free 共享池开闸**（见值得观察；提前注册建 key，池尽即关，上轮已秒光）
 - `10/10 23:59` · **Krill 77 折码** `krill-linuxdo-77` 截止（0.12x 档，见值得观察；另有拼团价周卡 ¥76/月卡 ¥589）
 - `10/22–10/23` · **Claude 免费重置卡使用窗口** — 9/22 Opus5.5 批次官方写 10/22；10/8 L站用户另发现一张 10/23 到期卡（疑 Haiku 5.5 新发放或批次差）——Settings→Usage→Resets 有卡的记得到期前耗额烧掉
 - `~10/13` · **GMI Cloud 免费周**截止（Qwen3.8 Max/Flash/Wan3.0 $0，需 $10 余额门槛，见值得观察）
-- `10/10` · **阿里百炼下架**：DSv3/R1 系 + qwen3-coder-plus/next/480b/30b + qwen3.6-max-preview + qwen3-vl-flash（官方公告；替代 qwen3.7-plus/max）
+- `10/10` · **阿里百炼下架（范围补全）**：第三方代理模型**全停**——DSv3/v3.1/v3.2/v3.2-exp、DS-R1/r1-0528/r1-distill 系、Kimi K2 系、MiniMax M2.1、GLM 4.6/4.7——另加 qwen3-coder-plus/next/480b/30b + qwen3.6-max-preview + qwen3-vl-flash 等自家老版（官方公告；迁移目标=各原厂 API；⚠️ QPM/TPM 自公告日起已在逐步缩减非等到当天——走 DashScope 路由的中转上游可能提前不稳）
 - `10/10` · **DeepSeek 低谷价观察**：国庆假日全天档 10/7 已结束；10/10 调休周六是否沿用低谷价官方未明示，当日跑批前自行对比峰谷价
 - `10/10` · **WorkBuddy 新用户**开启送 14 天每日额度截止
 - `10/14` · **MiniMax M Plan 首月 5 折**截止
@@ -175,10 +184,14 @@
 - **Claude 免验证注册路径（零成本可试）** — L站 t/2995760 实测：在 **ChatGPT Dots 的云电脑**（自带美国环境）里申请波兰 onet.pl 邮箱→注册 Claude **不弹验证**，存活 2 天并成功代充 Pro 跑完一个 5h；同法在自建美西云服务器+家宽节点亦可。对照封号潮背景，这是目前最低成本的注册面——别先充值，放量观察存活后再 Pro。`10-08`
 - **Claude 重置卡再发一张（10/23 到期）** — L站 t/2995299 用户发现 Settings→Usage 里多了一张 Expires 10/23 的免费重置卡（疑 Haiku 5.5 阳光普照，比 9/22 批次晚一天）；楼里有人没有——分批灰度发放，自己去 Settings→Usage→Resets 看一眼，有卡的在到期前烧掉（注意囤卡隐性过期时刻 bug，提前一两天用）。`10-08`
 - **Claude 5x 代充渠道收紧** — L站 t/2995800：「最近代充纷纷表示 5x 不太好充，容易被封」——Max 5x 代充封号风险上升，续费想躲风头的可缓几天或走官方/Apple 内购路径。另 iOS 礼品卡订阅 Claude 20x 讨论（t/2995453）：可行但被封后余额难转手。`10-08`
-- **OpenAI 侧小故障群** — 10/8 下午 Codex 普遍变慢（t/2995746 多人）+间歇 503（t/2995417）+sub2api 上下文压缩报 "response protection is unavailable"（t/2995502）+GPT-5.6 stream disconnected 老帖翻红（community t/1389973）——疑服务端调整期，撞上换时段/模型，非个人风控。**10/9 晨间延续**：Codex 自用官号反复 503 重连（L站 t/2997656）+「GPT 模型负载过大请换模型」多帖（t/2997644）+20x 档首次见到 503（t/2997548）+Windows Codex Desktop 26.1002.7124.0 任务中反复跳回主页（community t/1404532）——服务端调整期未完，撞上换模型/错峰，非个人风控。`10-09`
+- **OpenAI 侧小故障群** — 10/8 下午 Codex 普遍变慢（t/2995746 多人）+间歇 503（t/2995417）+sub2api 上下文压缩报 "response protection is unavailable"（t/2995502）+GPT-5.6 stream disconnected 老帖翻红（community t/1389973）——疑服务端调整期，撞上换时段/模型，非个人风控。**10/9 晨间延续**：Codex 自用官号反复 503 重连（L站 t/2997656）+「GPT 模型负载过大请换模型」多帖（t/2997644）+20x 档首次见到 503（t/2997548）+Windows Codex Desktop 26.1002.7124.0 任务中反复跳回主页（community t/1404532）——服务端调整期未完，撞上换模型/错峰，非个人风控。另：10/7 PDT **Dot 反滥用断服 13.5h**（community t/1404547，7:43am–9:15pm）——Dot 用户当天挂掉属官方断流非号问题。`10-09`
 - **enjoytoken 公益站停服预告** — L站 t/2996720（10/8）：站方口径"这次的马上结束，等待下次"——共享 20x 号池当前批次明天到期，老站注册用户按批放人；属"母号到期即停"型公益站常态波动，记档知悉，等下轮放量。`10-08`
 
 
+- **Claude Code 三枚错账 bug（GitHub 官方 issue 实录）** — ① **多 Team 账号 5h 限额互烧**（claude-code #81944）：同时登录 Team A+B，只用 A 干活 B 的 5h 窗口也持续被扣——服务端记账 bug 跨客户端复现，拼车/多 workspace 用户限额莫名见底先查这条；② **共享 daemon 泄露 token**（#79427）：首个会话的 `ANTHROPIC_AUTH_TOKEN` 漏进后续所有会话→静默错账号/错计费，同机多号跑批注意；③ **Team 席位 entitlement 标志被误写**（#79671）：CLI 把 `hasAvailableSubscription` 缓存成 false→有订阅席位却强制走 credits 提示，临时解法=手动改回 `~/.claude.json` 等官方修。`10-09`
+- **席位市场新形态两则（NodeSeek 行情）** — ① 「非盈利 Team 转移空间」车位 **首月 ¥70、次月起 ¥35**（post-960517）：空间整体转移非按月续费模式，单价刷新低但空间属性与席位类型（Standard/Premium）未明——按 Standard 有 5h 口径预期，上车前问清席位档；② 「Codex 拼车·额度不清零」¥200=1000 刀额度、日限 $100、长期有效不清零（post-951995）——从「月租车位」演变出「买断式额度包」，适合低频用户，对齐官方计费���径后实际性价比待验。`10-09`
+- **Claude 组织禁用=封号+官方不退款** — L站 t/2998704：visa 开 max 5x 后即触发「组织被禁用」，可登录但订阅消失——官方渠道不退，楼内共识解法=**走支付渠道 chargeback/abuse**（银行侧撤销）；新开号样本：简中 UI+直接订阅仍有 1-2 天短期存活例（t/2998633，「钓鱼执法」担忧下存活率未归零但请勿重仓）。`10-09`
+- **Plus 周额耐用度反向样本** — L站 t/2998605：高强度用两天周额只掉 ~4%——Plus 档在周限制下实际可用量仍可观（对比 Pro10x 实测缩水），普通强度用户不必恐慌额度。`10-09`
 - **Gemini AI Pro 试用批量撤销** — 10/7 起多例报告 Pixel 开通/安卓认证的 1 年 AI Pro 试用被收回（退款邮件"试用期已结束"，L站 t/2991026：10 号中 1 个被退、另有"一天封 16 个"案例）——楼内猜测为新模型放量前清理免费额度；叠加 10/9 免费档大砍生效（见限时窗口），Google 侧免费面在快速收窄。另：学生免费期结束后续约或收到 75% 折扣定向 offer（SmartScope 转 X 单例，720 日元/月档，非保证）。`10-07`
 - **Antigravity 家庭共享解锁** — Student/Jio 等非付费 Pro 账号作 Family Manager，家庭成员可继承 Pro 模型访问（Opus5.5/Sonnet5.5）；10/4 再现野路子版（普通 Google 小号进 Pro 家庭组即出 Opus5.5，t/2983264，社区预期很快修）。额度叠加规则（t/2983450）：成员先消耗自己订阅额度、再扣管理员共享出来的那份。⚠️ 家庭组额度共享且 Claude 额度很小，尝鲜级。证伪：10/5 "全面开放 Opus5.5" 传言不实——free/Jio 号可见模型列表但调用 404，仍仅全价付费 Pro/Ultra 可用（L站 t/2983586）。灰度新动向（t/2985927）：部分 Pro 用户模型列表多出 claude-5.5-high / sonnet-5.5-high（同档有人没有、有人前天有昨天消失），Claude 侧 5h 额度极小一用就没——当作灰度推送中，非全面放开。10/6 新信号：免费号蹬量案例 3 个反重力 7 天跑 24 亿 token，发现上游返回 `gemini-3.8-flash-n`（社区解读 -n=notpaid 降智变体，L站 t/2986144）——免费档 Gemini 侧有缩水型号，蹬量时留意实际返回模型名。`10-06`
 - **Cline 免费档变动** — 10/4 DSv4.1F 与 Gemini 3.8F 从 cline 免费档移除（L站 t/2983488 多人确认），官方 10/4 同步宣布 DSv4.1F 免费促销因"异常滥用"暂停（RSS.bz 编译官方帖）；cline pass 付费档不受影响。**10/7 半复活：Cline 网页版新增 Agent 模式，可免费跑 `cline-cloud/deepseek-v4.1-flash`（自部署上游，L站 t/2991415 截图实证）**——免费 DSv4.1F 渠道借网页版回归，但滥用暂停刚发生过，持续性存疑当备胎（DSv4.1F 免费渠道多：WorkBuddy 至 10/9、华为云码道日 1000 万、OR 池）。`10-07`
@@ -250,7 +263,8 @@
 - **Reflection Beam 501B waitlist** — API beta 申请制，Apache-2.0 月内开源权重；先排队。`10-07`
 - **OrcaRouter 学生 offer** — Offers 页两键领，部分学生 offer 不需 edu 邮箱、历史 GitHub 号即可。`10-05`
 - **OpenAI 定向 $50 礼品卡** — 非公开申请、邮件定向发放（美区/美元账户）；动作=翻注册邮箱含垃圾箱。`10-06`
-- **高校/edu 学生包（高中生不适用，仅记档）** — Gemini 学生一年（18+ 大学生 SheerID，不含中国大陆/港澳/加拿大）、Codex 学生 $100、ChatGPT Back to School 4 个月 Plus、SuperGrok 学生 2 个月、Cursor 学生一年 Pro、火山方舟高校 1 亿 tok、Kiro/AWS/Azure 学生包——均需高等教育身份验证。`10-04`
+- **Gemini 学生方案·学信网认证破 CN 墙（规则变化）** — L站 t/2998275/2997824 多人实测：此前「不含中国大陆」口径被打破——SheerID 认证流程里**地区选台湾→学校挑国内大学→传学信网（CHSI）学籍验证材料**可过审；过审后学生优惠页放出免费一年 **Google AI Plus**（2x 用量上限+400GB 云存+Omni 视频生成；规则=非美区给 Plus 档、美区才给 Pro）。门槛核对：① 需学信网学籍材料=**高等教育在读才有**（高中生/无大学学籍者不适用，仅记档）；② 注册需绑有效付款方式，到期自动按 NT$165/月续费——领到先关自动续费；③ 兑换期限至 12/31；④ 跨区选台+陆校属钻空档，官方随时可收口，有真实学籍才试别伪造。灰产对照：咸鱼 Jio 捆绑 18 个月 Gemini ~¥5 起（号非己风险自担）。`10-09`
+- **高校/edu 学生包（高中生不适用，仅记档）** — Gemini 学生一年（18+ 大学生 SheerID；10/9 起中国大陆学籍经"台湾区+学信网"路径可领 Plus 档，见上条）、Codex 学生 $100、ChatGPT Back to School 4 个月 Plus、SuperGrok 学生 2 个月、Cursor 学生一年 Pro、火山方舟高校 1 亿 tok、Kiro/AWS/Azure 学生包——均需高等教育身份验证。`10-09`
 
 ## 已失效 / 不适用（近 7 天滚动记档，更早的见 git 历史）
 
@@ -290,6 +304,8 @@
 - `10-06` **Apinoria 10 月充值送 30%** — 纯充值返利无免费额度（V2EX t/1246211，10/1–10/31），付费向跳过
 - `10-09` **chat.hf.co SSH 聊天玩具** — HuggingFace SSH 终端聊天（小开源模型聊天室），玩具无额度价值，跳过
 - `10-09` **非 AI 羊毛批量过滤** — 2233 卡 bilibili 银行卡首绑券、甲骨文 ARM 永久免费 VPS（非 AI）、QQ音乐/美团单车/支付宝/Canva 类会员羊毛、wetothemars 3.8 折首充（小站充值），均不涉 AI 额度跳过
+- `10-09` **WorkBuddy 国际版 DSv4.1F 免费** — 10/9 截止日已到期（国际版 Free 档常态 100 积分/月+日 30 积分仍在）；Cline 网页版 Agent 模式免费 DSv4.1F 渠道仍在但已降质（见渠道情报）
+- `10-09` **记档跳过** — 黑化中转 gptpro.live（GPT-only 0.17x 自称不降智+实时踢降智号，1 元试用，V2EX 广告帖被官方标记零口碑）；fal.ai $10 券码 H3-MAX-GROWTH（1000 名额，生图/视频 API 向额度小）；腾讯 ima 知识库签到算力（check-in 型）；GLM Coding Plan 体验卡 7 天×5（发出即抢完）；zerocost BYOK 免费档路由（需自带 Groq/Cerebras key，属工具非额度）；773 公益站（注册码须 300 LDC 购买门槛+阶梯签到制，DS/Kimi 自报稳定但需先付门槛——记档备查，下次放量再看）；qoder 奶茶卡/建行福利金/阿里云便签（非 AI）
 - `10-06` **解密得 OpenCode Go key** — 谜题送 33% 月额度 key（10/10 过期），额度小抽奖制跳过
 - `10-06` **OpenCode Go 公开分享 key（L站 t/2987240/2988572）** — 两帖放出临期 OC Go key（1-2 天到期），公开池十几分钟被蹬穿（实测 Insufficient account funds）——共享池秒枯竭≈不可用，跳过
 - `10-06` **CometAPI / FastRouter** — CometAPI（9/30 上线，500+ 模型、注册送 test credits 未标额、免卡）营销稿口径额度不明，验货级以下暂不动；FastRouter（10/5 PH 上线，$199/月档面向团队，免费档数额未公开）——均不够门槛，记档跳过
