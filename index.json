@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-13T01:47:01Z",
+  "generated": "2026-10-13T04:05:41Z",
   "briefings": [
+    {
+      "file": "briefings/2026-10-13-0400.md",
+      "date": "2026-10-13",
+      "time": "04:00",
+      "title": "AI/科研简报 · 2026-10-13 凌晨档",
+      "blurb": "一句话判断：值得细看——Meta 携 Muse Wonder 重回 frontier 牌桌（Active Memory 是其真正的赌注），Anthropic 同一天抛出「小模型 IoT 自复制」报告把开源权重叙事推向监管战场；另有两起并行隐…"
+    },
     {
       "file": "briefings/2026-10-12-0400.md",
       "date": "2026-10-12",
