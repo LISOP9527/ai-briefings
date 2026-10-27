@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T04:09:04Z",
+  "generated": "2026-10-27T04:51:58Z",
   "briefings": [
     {
       "file": "briefings/2026-10-27-1206.md",
@@ -135,6 +135,41 @@
       "time": "",
       "title": "AI 羊毛情报 · 当前有效清单",
       "blurb": "活文档：自动化每 3h 维护一次。新机会进对应分组，过期/失效的移入「已失效」（只留近 7 天）并注明日期。每行尾标确认日期。"
+    },
+    {
+      "file": "deals/openai.md",
+      "date": "",
+      "time": "",
+      "title": "AI 羊毛情报 · OpenAI 线（ChatGPT / Codex / Work / API）",
+      "blurb": "活文档：deals 清单 2026-10-27 起按模型线拆分为 5 份，本文件=OpenAI 线存档，由 ai-deals-openai 每 3h 维护一次；其他线与索引见 deals/current.md。新机会进对应分组，过期/失效的…"
+    },
+    {
+      "file": "deals/google.md",
+      "date": "",
+      "time": "",
+      "title": "AI 羊毛情报 · Google / xAI / 其他海外大厂线（Gemini·Argon·Antigravity / Grok·X Sub / Meta 等）",
+      "blurb": "活文档：deals 清单 2026-10-27 起按模型线拆分为 5 份，本文件=Google / xAI / 其他海外大厂线存档，由 ai-deals-google 每 6h 维护一次；其他线与索引见 deals/current.md。新…"
+    },
+    {
+      "file": "deals/cn.md",
+      "date": "",
+      "time": "",
+      "title": "AI 羊毛情报 · 国产线（Kimi·GLM·DeepSeek·Qwen·MiniMax·阶跃·讯飞·火山豆包·WorkBuddy·蚂蚁·华为·超算·七牛等官方渠道）",
+      "blurb": "活文档：deals 清单 2026-10-27 起按模型线拆分为 5 份，本文件=国产线存档，由 ai-deals-cn 每 3h 维护一次；其他线与索引见 deals/current.md。新机会进对应分组，过期/失效的移入「已失效」（只…"
+    },
+    {
+      "file": "deals/anthropic.md",
+      "date": "",
+      "time": "",
+      "title": "AI 羊毛情报 · Claude 线（Anthropic / Claude Code）",
+      "blurb": "活文档：deals 清单 2026-10-27 起按模型线拆分为 5 份，本文件=Claude 线存档，由 ai-deals-anthropic 每 6h 维护一次；其他线与索引见 deals/current.md。新机会进对应分组，过期/…"
+    },
+    {
+      "file": "deals/agg.md",
+      "date": "",
+      "time": "",
+      "title": "AI 羊毛情报 · 平台/市场线（聚合中转·公益站·通用端点·二手行情·支付工具）",
+      "blurb": "活文档：deals 清单 2026-10-27 起按模型线拆分为 5 份，本文件=平台/市场线存档，由 ai-deals-agg 每 6h 维护一次；其他线与索引见 deals/current.md。新机会进对应分组，过期/失效的移入「已失…"
     }
   ]
 }
