@@ -1,6 +1,13 @@
 {
-  "generated": "2026-10-29T02:27:36Z",
+  "generated": "2026-10-29T04:10:12Z",
   "briefings": [
+    {
+      "file": "briefings/2026-10-29-1210.md",
+      "date": "2026-10-29",
+      "time": "12:10",
+      "title": "AI / 科研简报 · 2026-10-29",
+      "blurb": "本轮值得细看——前沿竞争的主战场在这一天清晰换位到「攻防能力」：Google 发布 Gemini 4 Carbon（AA v5 登顶 59 分，三张网安榜 SOTA，先供防御方用），Anthropic 同日披露内部模型在 Chrome/Sa…"
+    },
     {
       "file": "briefings/2026-10-28-1206.md",
       "date": "2026-10-28",
