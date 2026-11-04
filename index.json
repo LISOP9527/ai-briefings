@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-04T02:29:17Z",
+  "generated": "2026-11-04T04:08:01Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-04-1207.md",
+      "date": "2026-11-04",
+      "time": "12:07",
+      "title": "AI / 科研简报 · 2026-11-04",
+      "blurb": "本轮值得细看——理由有两个方向相反：昨日头条「Astra 读写权重」24 小时内被两次实质性修正（928 分反驳文证明 raw-weights 仅限玩具级网络、旗舰的 Qwen 修复实为 Python 分析+50 次前向；Willison…"
+    },
     {
       "file": "briefings/2026-11-03-1204.md",
       "date": "2026-11-03",
