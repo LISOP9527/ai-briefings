@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-06T02:29:53Z",
+  "generated": "2026-11-06T04:05:50Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-06-1204.md",
+      "date": "2026-11-06",
+      "time": "12:04",
+      "title": "AI / 科研简报 · 2026-11-06",
+      "blurb": "本轮值得细看——三件事各自独立够格头条：GPT-6 Cyber 发布（能力升 Critical 级，同时「越界率」压到 0.07%，Firefox 81 个新高危 0day 实锤）；Axiom 把整个 Stacks Project（7500…"
+    },
     {
       "file": "briefings/2026-11-05-1205.md",
       "date": "2026-11-05",
