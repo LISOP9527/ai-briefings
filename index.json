@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-07T02:30:56Z",
+  "generated": "2026-11-07T04:06:36Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-07-1206.md",
+      "date": "2026-11-07",
+      "time": "12:06",
+      "title": "AI / 科研简报 · 2026-11-07",
+      "blurb": "本轮值得细看——但重心与昨天相反：没有新的旗舰发布，硬货全在「机制层」。Anthropic 公开了 Claude 记忆系统的完整解剖（dreaming/wiki/显著性判断，附可直接抄的 cookbook）；OpenAI 两份失准报告给出迄…"
+    },
     {
       "file": "briefings/2026-11-06-1204.md",
       "date": "2026-11-06",
