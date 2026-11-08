@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-08T02:33:32Z",
+  "generated": "2026-11-08T04:05:30Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-08-1204.md",
+      "date": "2026-11-08",
+      "time": "12:04",
+      "title": "AI / 科研简报 · 2026-11-08",
+      "blurb": "本轮值得细看——重心在「AI 做科研」与「评测完整性」两条线同时出硬货：PSI 用未公开的 Anthropic 模型在 3 天自主 run 中证出 18 年悬而未决的 Aaronson–Ambainis 猜想并经 Lean 双 kernel…"
+    },
     {
       "file": "briefings/2026-11-07-1206.md",
       "date": "2026-11-07",
