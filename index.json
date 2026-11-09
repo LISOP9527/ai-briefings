@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-09T02:31:19Z",
+  "generated": "2026-11-09T04:05:07Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-09-1204.md",
+      "date": "2026-11-09",
+      "time": "12:04",
+      "title": "AI / 科研简报 · 2026-11-09",
+      "blurb": "本轮值得细看——三条线同时有可核查硬增量：AI-for-math 侧，Aaronson 本人发文背书 PSI 证明（\"I believe the proof is correct\"）并顺手解决了 Fortnow–Rogers 1998 开放…"
+    },
     {
       "file": "briefings/2026-11-08-1204.md",
       "date": "2026-11-08",
