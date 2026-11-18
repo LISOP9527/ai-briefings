@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-17T04:10:09Z",
+  "generated": "2026-11-18T04:05:14Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-18-1205.md",
+      "date": "2026-11-18",
+      "time": "12:05",
+      "title": "AI / 科研简报 · 2026-11-18",
+      "blurb": "本轮值得细看——窗口只有约 30 小时但含金量高：OpenAI 发了 GPT-6.2 Astra/Sol，系统卡确认 Astra 是 OpenAI 史上第一个对外部署即达「AI 自我改进 High 阈值」的模型（NanoGPT 训练提速 4…"
+    },
     {
       "file": "briefings/2026-11-17-1207.md",
       "date": "2026-11-17",
