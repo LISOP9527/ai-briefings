@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-21T04:03:58Z",
+  "generated": "2026-11-22T04:05:06Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-22-1204.md",
+      "date": "2026-11-22",
+      "time": "12:04",
+      "title": "AI / 科研简报 · 2026-11-22",
+      "blurb": "本轮值得细看——不是又有大新闻，而是昨天的大新闻进入了更有信息量的第二阶段：GRH 机器验证彻底闭环（Lean FRO+Mathlib 联合声明「full confidence」+ 沙箱逐字节复现）的同时，Nielsen 的「几何谓词=Tr…"
+    },
     {
       "file": "briefings/2026-11-21-1200.md",
       "date": "2026-11-21",
