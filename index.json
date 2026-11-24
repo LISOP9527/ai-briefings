@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-23T04:15:44Z",
+  "generated": "2026-11-24T04:05:12Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-24-1205.md",
+      "date": "2026-11-24",
+      "time": "12:05",
+      "title": "AI / 科研简报 · 2026-11-24",
+      "blurb": "本轮值得细看——循环深度（looped depth）一周内从「笔记本玩具」升级成「旗舰赌注」：GLM-5.4 把 750B 基座的 28 层权重循环两轮、声称对标 2–3T 模型，是继 Inkling-2-Mini、SenseNova-Lo…"
+    },
     {
       "file": "briefings/2026-11-23-1200.md",
       "date": "2026-11-23",
