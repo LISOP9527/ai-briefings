@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-24T04:05:12Z",
+  "generated": "2026-11-25T04:07:06Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-25-1205.md",
+      "date": "2026-11-25",
+      "time": "12:05",
+      "title": "AI / 科研简报 · 2026-11-25",
+      "blurb": "本轮必须细看——「AI 产出机器可验证数学」在 48 小时内从单点奇观变成两家实验室的流水线竞赛：Anthropic 的 Claude 和 OpenAI 的内部模型在 11-23 同日各自丢出 VP≠VNP 的 Lean 4 完整证明（Va…"
+    },
     {
       "file": "briefings/2026-11-24-1205.md",
       "date": "2026-11-24",
