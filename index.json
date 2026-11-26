@@ -1,6 +1,13 @@
 {
-  "generated": "2026-11-25T04:07:06Z",
+  "generated": "2026-11-26T04:15:07Z",
   "briefings": [
+    {
+      "file": "briefings/2026-11-26-1212.md",
+      "date": "2026-11-26",
+      "time": "12:12",
+      "title": "AI / 科研简报 · 2026-11-26",
+      "blurb": "本轮必须细看——Google 携 Cogentic 入场，「AI 刷开放问题」三足鼎立，且炮弹第一次落在密码学门口：Google Research/DeepMind 的 agentic 数学框架 Cogentic（Gemini 4 为基座）…"
+    },
     {
       "file": "briefings/2026-11-25-1205.md",
       "date": "2026-11-25",
